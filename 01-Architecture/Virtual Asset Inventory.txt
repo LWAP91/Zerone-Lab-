@@ -1,7 +1,9 @@
 Virtual Assets inventory
 
+
 VM Name                       	OS	           Role	                            Note   
 1-ZVM01	              Windows Server 2022    Domain Controller                    Identity,                                                                                authentication, name resolution,                                                                                  IP management
 2-ZVM02	              Windows Server 2022    File Server	 Centralized file sharing and NTFS                                                                                      permissions
 3-ZVM03	              Windows 11 Pro	     Client VM 1	 Domain-joined user workstation
-4-ZVM04	              Windows 11 Pro	     Client VM 2         Second client for access & policy                                                                                testing
+4-ZVM04	              Windows 11 Pro	     Client VM 2    Second client for access & policy testing  
+5-ZVM05                    N/A             Virtual Switch   Connecting the VMs to the physical network                                                    
