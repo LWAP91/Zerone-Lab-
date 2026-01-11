@@ -1,0 +1,77 @@
+Skills Matrix
+
+This skills matrix maps technical competenceies and hand-on activities implemented and documented in the lab. The matrix is actively maintained and updated as the lab configuration evolves.
+
+Operating Systems and System Administration
+
+Skill	                             Level Demonstrated	           Evidence
+
+Windows Server Administration	          Planned  	Domain Controller build documentation
+Windows Server Roles & Features	          Planned 	AD DS, DNS, DHCP setup
+Windows Client Administration	          Planned 	Windows 11 domain join and validation
+User Account Management	                  Planned	User creation, password reset, account control
+System Validation & Testing	          Planned	Login tests, service verification
+
+
+Identity & Access Management (IAM)
+
+Skill	                                 Level Demonstrated	          Evidence
+
+Active Directory Domain Services (AD DS)	Planned 	AD DS configuration project
+Organizational Unit (OU) Design	                Planned	        OU structure documentation
+Security Groups	                                Planned	        Group-based access control
+Authentication & Authorization	                Planned 	Domain login validation
+Least Privilege Principles	                Planned	        File and group permission design
+
+Networking Fundamentals
+
+Skill	                                Level Demonstrated	             Evidence
+
+IP Addressing & Subnetting	           Planned                    IP plan documentation
+DNS Configuration & Resolution	           Planned 	              DNS role setup, nslookup tests
+DHCP Scope Management	                   Planned	              DHCP scope and lease testing
+Network Troubleshooting	                   Planned 	              ipconfig, ping, nslookup
+Client Connectivity Validation	           Planned                    Domain client network tests
+
+Virtualization & Infrastructure
+
+Skill	                              Level Demonstrated            	      Evidence
+
+Virtual Machine Provisioning	          Planned	               Hypervisor VM inventory
+Resource Allocation (CPU/RAM)	          Planned	               VM configuration settings
+Role-Based VM Design	                  Planned	               DC, File Server, Client VMs
+Snapshot / Checkpoint Usage	          Planned	               Safe testing and rollback
+Environment Isolation	                  Planned	               Separate VM roles
+
+File Services & Access Control
+
+Skill	                              Level Demonstrated	              Evidence
+
+File Server Configuration	         Planned	               File server project
+Shared Folder Management	         Planned	               Share configuration
+NTFS Permissions	                 Planned	               Group-based access testing
+Access Validation	                 Planned	               Allowed / denied access tests
+Permissions Troubleshooting	         Planned	               Incident documentation
+
+Troubleshooting & Incident Handling
+
+Skill	                           Level Demonstrated	                      Evidence
+
+Problem Identification	               In progress	               Service and connectivity tests
+Root Cause Analysis	               Planned	                       Incident notes
+Log Review	                       Planned	                       Event Viewer usage
+Issue Documentation	               Planned	                       05-incident-notes
+Preventive Improvements	               Planned	                       Lessons learned sections
+
+Skill	                          Level Demonstrated	                     Evidence
+
+Technical Documentation	              In progress	               Markdown documentation
+Runbook Creation	              Planned	                       Admin procedures
+Evidence Capture	              In progress	               Screenshots and logs
+Change Tracking	                      In progress	               Git commit history
+Portfolio Presentation	              In progress	               GitHub repository structure
+
+
+
+
+

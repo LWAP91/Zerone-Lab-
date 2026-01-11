@@ -1,0 +1,13 @@
+Zerone Lab is a self‑managed IT home lab built to replicate a small‑to‑medium enterprise (SME) Windows environment. It operates on a hybrid architecture that integrates both physical hardware and virtualized systems, enabling the design, deployment, and administration of a complete infrastructure stack.
+
+This environment serves as a practical platform for developing hands‑on experience in:
+
+IT support and troubleshooting
+
+Windows system administration
+
+Core networking services (DNS, DHCP, AD DS, Group Policy, etc.)
+
+Operational best practices used in real enterprise environments
+
+The lab focuses on real-world administrative workflows, emphasizing practical problem‑solving and day‑to‑day operational tasks rather than theoretical exercises. It is designed to showcase the technical competencies expected in entry‑level roles such as IT Technician, IT Support Specialist, and Junior Systems Administrator.
