@@ -1,0 +1,28 @@
+Physical Asset Inventory
+
+This document provides an inventory of physical assets used in the Zerone Lab environment. The inventory is maintained to support infrastructure planning, troubleshooting, and documentation of the lab architecture.
+
+Compute and End-User Devices
+
+Asset	                   Role	                          Key Specifications	          Notes
+1-Dell XPS Desktop	Primary admin workstation	Intel Core i7, 16 GB RAM      Used for lab                                                                                         management,                                                                                         documentation, and                                                                                             testing
+
+2-Lenovo ThinkPad Laptop Secondary workstation	      Intel Core i5, 8 GB RAM	    Used for remote                                                                                 access and client-side                                                                                        testing
+
+3-Dell PowerEdge R210	Server hardware	Enterprise-grade server	              Dedicated lab server for                                                                                infrastructure services
+
+Display and  Workspace
+
+Asset	                              Role	            Specifications	          Notes
+1-Sceptre C27 Monitors (x2)	Administrative displays	   27-inch curve monitors	Dual-monitor                                                                                        setup for lab                                                                                            operations
+Networking and Security Devices
+Asset	                        Role	                Model	                        Notes
+1- Arista Access Wi-Fi	Wireless access	            Arista AP	       Provides wireless connectivity
+2- Cisco ASA Firewall	Perimeter security	    ASA 5515-X	       Firewall and security boundary
+3- Cisco Router	        Routing services	    Cisco 2800 Series	Network routing and                                                                                      lab traffic control
+4- Cisco Switch	        Access switching	Catalyst 2960 Plus Series SI	Layer 2 switching
+
+Rack and Power Infrastructure
+Asset	                 Role	      Specifications	                        Notes
+1-Server Rack	Equipment housing	12U rack	        Houses server and networking devices
+2-Panamax PDU	Power distribution	Rack-mounted PDU	Provides managed power distribution
